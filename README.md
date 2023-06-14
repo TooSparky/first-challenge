@@ -12,8 +12,8 @@ Follow the link in Github and it will take you straight to the project.
 
 Scroll down the page or use the navigation bar to take you right to where you want to be. The website provides help with search engine optimization, online reputation management, and social media marketing.
 
-![alt text](assets/images/opera-snapshot-navbar.png)
-![alt text](assets/images/opera-snapshot-main-page.png)
+![alt text](./images/opera-snapshot-navbar.png)
+![alt text](./images/opera-snapshot-main-page.png)
 
 ## Credits
 
